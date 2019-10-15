@@ -23,3 +23,4 @@ def self.all
   #   name.downcase.gsub(' ', '-')
   # end
 end
+end
